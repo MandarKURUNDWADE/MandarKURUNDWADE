@@ -52,28 +52,28 @@ Let's work together to make a difference in the world through data-driven soluti
 <details>
   <summary> 
     01) KPMG Data Analysis using Excel.
-    <a href="">📂</a> 
+    <a href="https://github.com/MandarKURUNDWADE/KPMG_Data_Analysis_Excel">📂</a> 
   </summary>
   This project aims to analyze customer demographics, transactions, and new customer data to provide insights into business performance and customer behavior. The project consists of six tasks that involve data cleaning, data analysis, and visualization using Excel.
 </details> 
 <details>
   <summary> 
     02) Airline Data Management and Analysis Using Power BI. 
-    <a href="">📂</a> 
+    <a href="https://github.com/MandarKURUNDWADE/Airline_Data_Analysis_PowerBI">📂</a> 
   </summary>
   The airline industry operates with numerous complexities, requiring effective data management and insights into flight schedules, passenger details, and ticketing systems. This project aims to analyze airline operations for improving efficiency and customer satisfaction.
 </details> 
 <details>
   <summary> 
     03) Sales Performance Analysis of Walmart Stores Using Advanced MySQL Techniques. 
-    <a href="">📂</a> 
+    <a href="https://github.com/MandarKURUNDWADE/Sales_Performance_Walmart_MySQL">📂</a> 
   </summary>
   Walmart wants to optimize its sales strategies by analyzing historical transaction data across branches, customer types, payment methods, and product lines. To achieve this, advanced MySQL queries will be employed to answer challenging business questions related to sales performance, customer segmentation, and product trends.
 </details>
 <details>
   <summary> 
     04) Electric Vehicle Data Analysis Project Using Python. 
-    <a href="">📂</a> 
+    <a href="https://github.com/MandarKURUNDWADE/EV_Data_Analysis_Python">📂</a> 
   </summary>
   In this project, you will analyze a dataset related to electric vehicles (EVs). The dataset contains various features such as electric range, energy consumption, price, and other relevant attributes. Your goal is to conduct a thorough analysis to uncover meaningful insights, tell a compelling story, conduct hypothesis testing and provide actionable recommendations based on the data.
 </details>
@@ -83,14 +83,14 @@ Let's work together to make a difference in the world through data-driven soluti
 <details>
   <summary> 
     01) Airbnb Price Prediction and Insights.
-    <a href="">📂</a> 
+    <a href="https://github.com/MandarKURUNDWADE/Airbnb_Price_Prediction_ML">📂</a> 
   </summary>
   This repository consists of customized word embedding pre-trained on banking and finance terms which will be helpful in analyzing
 </details> 
 <details>
   <summary> 
     02) Customer Churn Prediction.
-    <a href="">📂</a> 
+    <a href="https://github.com/MandarKURUNDWADE/Customer_Churn_Prediction_ML">📂</a> 
   </summary>
   This repository consists of customized word embedding pre-trained on banking and finance terms which will be helpful in analyzing
 </details> 
@@ -100,14 +100,14 @@ Let's work together to make a difference in the world through data-driven soluti
 <details>
   <summary> 
     01) IMDb Movie Review Sentiment Analysis. 
-    <a href="">📂</a> 
+    <a href="https://github.com/MandarKURUNDWADE/Movie_Review_Analysis_NLP">📂</a> 
   </summary>
   The primary objective of this project is to build a machine learning classification model that can predict the sentiment of IMDb movie reviews. The dataset contains a collection of movie reviews, and each review is labeled as either positive or negative. Using text preprocessing, feature extraction techniques (such as TF-IDF), and various classification algorithms, the project will aim to develop a model that can effectively classify the sentiment of movie reviews. The model’s performance will be evaluated using standard classification metrics, such as accuracy, precision, recall, and F1-score.
 </details> 
 <details>
   <summary> 
     02) News Article Classification. 
-    <a href="">📂</a> 
+    <a href="https://github.com/MandarKURUNDWADE/News_Article_Classification_NLP">📂</a> 
   </summary>
   The primary objective of this project is to build a classification model that can automatically categorize news articles into different predefined categories. The model will be trained using a labeled dataset of news articles and will output the most likely category (e.g., sports, politics, or technology) for any given article.
 </details>
