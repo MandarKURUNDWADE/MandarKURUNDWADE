@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/MandarKURUNDWADE/MandarKURUNDWADE/IntroGIF_speed.gif" alt="IntroGIF" width="820" height="200">
+  <img src="https://github.com/MandarKURUNDWADE/MandarKURUNDWADE/blob/main/IntroGIF_speed.gif" alt="IntroGIF" width="820" height="200">
 </p>
 
 
