@@ -95,14 +95,6 @@ Let's work together to make a difference in the world through data-driven soluti
   This repository consists of customized word embedding pre-trained on banking and finance terms which will be helpful in analyzing
 </details> 
 
-## <samp> Deep Learning Projects: <samp>
-<details>
-  <summary> 
-    01) Find the largest among 3 numbers entered by the user. 
-    <a href="">📂</a> 
-  </summary>
-  This repository consists of customized word embedding pre-trained on banking and finance terms which will be helpful in analyzing
-</details> 
 
 ## <samp> Natural Language Processing (NLP) Projects: <samp>
 <details>
