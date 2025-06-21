@@ -1,4 +1,4 @@
-<h1 align="Right"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi there, I'm MANDAR <a href="#-ᴄʜᴇᴄᴋ-ᴏᴜᴛ-ᴍʏ-ᴘʀᴏᴊᴇᴄᴛ-ʀᴇᴘᴏꜱɪᴛᴏʀʏ-%EF%B8%8F">🧑🏽‍💻</a></h1>
+<h1 align="Right"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi there, I'm MANDAR 🧑🏽‍💻</h1>
 
 
 <p align="center">
@@ -120,4 +120,4 @@ Let's work together to make a difference in the world through data-driven soluti
 </p>
 
 
-<h3 align="Right"><a href="">💻</a> ᗰᗩᑎᗪᗩᖇ <a href="">▲</a></h3>
+<h3 align="Right">💻 ᗰᗩᑎᗪᗩᖇ ▲</h3>
