@@ -1,5 +1,12 @@
+<!--   
+<div align="left">
+  <a href=""><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="160" height="25"></a>
+  <a href=""><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-orange"></a>
+  <a href=""><img src="https://img.shields.io/badge/Ebook-Download%20Ebook-blue"></a>
+  <a href=""><img src="https://img.shields.io/badge/Research%20Papers-View%20Papers-purple"></a>
+</div> 
+ -->
 <h1 align="Right"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi there, I'm MANDAR 🧑🏽‍💻</h1>
-
 
 <p align="center">
   <img src="https://github.com/MandarKURUNDWADE/MandarKURUNDWADE/blob/main/IntroGIF_speed.gif" alt="IntroGIF" width="820" height="200">
