@@ -18,10 +18,9 @@ As a professional Data Scientist, my journey was inspired by a childhood aspirat
 </samp>
 <br><br>
 
-**Empowering a Data-Driven Future:** <br>
-✓ Lifelong Learner and Daydreamer 🌱📚 <br>
-✓ Devoted Linux Fan 🐧 <br>
-✓ Creating a Data-Driven World 🌋🏃‍♂️ <br>
+- 👀 Researcher | Developer
+- 🌱 Building solutions for my problems.
+- ⚡ Fun fact: I love finding bugs, and solving puzzles. <br>
 
 If you have any queries related to Machine Learning, Data Science, or Internet of Things, feel free to ask 💬. I am always eager to collaborate on interesting and impactful Data Science projects 👯.
 
