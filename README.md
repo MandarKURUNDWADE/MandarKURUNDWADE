@@ -18,16 +18,16 @@ As a professional Data Scientist, my journey was inspired by a childhood aspirat
 </samp>
 <br><br>
 
-- 👀 Researcher | Developer
-- 🌱 Building solutions for my problems.
-- ⚡ Fun fact: I love finding bugs, and solving puzzles. <br>
-
-If you have any queries related to Machine Learning, Data Science, or Internet of Things, feel free to ask 💬. I am always eager to collaborate on interesting and impactful Data Science projects 👯.
+- 🔭 **I’m currently working on:** <br> _AI-driven data analytics projects, including predictive modeling, text classification, and generative AI apps using LLMs and RAG pipelines._
+- 🌱 **I’m currently learning:** <br> _Model fine-tuning for domain-specific LLMs, scalable deployment of agentic workflows, and advanced data storytelling with Power BI._
+- 👯 **I’m looking to collaborate on:** <br> _Applied GenAI, Power BI dashboards, NLP applications, and real-time machine learning systems._
+- 🤔 **I’m looking for help with:** <br> _Scaling LLMs in production, optimizing MLOps workflows, and integrating external data into agentic systems._
+- 💬 **Ask me about:** <br> _Python, Power BI, SQL, Excel Automation, LLMs, NLP, ML/DL pipelines, and Data Visualization._
+- 😄 **Pronouns:** _He/Him_
+- ⚡ **Fun fact:** <br> _I love turning complex data into meaningful, visual stories and technology seems to love helping me do it._ <br>
 
 Let's work together to make a difference in the world through data-driven solutions! 🌋🏃‍♂️🌱📚
-
 <br>
-
 <h2 align="Left">🛠 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ & ᴛᴏᴏʟꜱ</h2>
 
 > Most used languages, technologies and tools across my projects:
