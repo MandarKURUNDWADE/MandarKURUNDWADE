@@ -137,3 +137,5 @@ Let's work together to make a difference in the world through data-driven soluti
 
 
 <h3 align="Right">💻 ᗰᗩᑎᗪᗩᖇ ▲</h3>
+
+Bio: I'm Mandar, a data scientist with a postgraduate degree in data science. Skilled in LLMs, GenAI, RAG, agentic systems, ML, DL, and NLP.
